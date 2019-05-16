@@ -6,6 +6,8 @@ HBO GO Europe subtitle download tool
 * Python 3.6+
 * Install package dependencies using [Pipenv](https://docs.pipenv.org/en/latest/) or `pip install -r requirements.txt`
 
+For Windows, you can download a binary which doesn't require you to install Python or any packages from the [releases page](https://github.com/nyuszika7h/hbogosubs/releases).
+
 ## Usage
 Run `hbogosubs.py`. On first run after entering a URL you will be prompted to select an operator and enter your username/email and password for that region.
 
