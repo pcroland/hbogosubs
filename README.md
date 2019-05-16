@@ -22,7 +22,7 @@ If something is wrong, you can use the `--debug` option to attempt to diagnose t
 For further help on command line arguments, see `--help`.
 
 ## Known issues
-* Operator logins with redirect not supported (#1)
+* Operator logins with redirect not supported ([#1](https://github.com/nyuszika7h/hbogosubs/issues/1))
 
 ## License
 [MIT License](LICENSE.txt)
